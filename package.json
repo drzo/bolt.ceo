@@ -177,7 +177,7 @@
     "concurrently": "^8.2.2",
     "cross-env": "^7.0.3",
     "crypto-browserify": "^3.12.1",
-    "electron": "^39.8.5",
+    "electron": "^41.10.6",
     "electron-builder": "^25.1.8",
     "eslint-config-prettier": "^10.1.1",
     "eslint-plugin-prettier": "^5.2.6",
@@ -186,7 +186,7 @@
     "is-ci": "^3.0.1",
     "jsdom": "^26.0.0",
     "node-fetch": "^3.3.2",
-    "pnpm": "^9.14.4",
+    "pnpm": "^10.34.5",
     "prettier": "^3.5.3",
     "rimraf": "^4.4.1",
     "sass-embedded": "^1.81.0",
@@ -198,7 +198,7 @@
     "vite-plugin-copy": "^0.1.6",
     "vite-plugin-optimize-css-modules": "^1.1.0",
     "vite-tsconfig-paths": "^4.3.2",
-    "vitest": "^2.1.7",
+    "vitest": "^5.0.5",
     "wrangler": "^4.5.1"
   },
   "resolutions": {
